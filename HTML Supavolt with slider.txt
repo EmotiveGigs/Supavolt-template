@@ -1,0 +1,248 @@
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://drive.google.com/uc?export=view&amp;id=1QRSrqUKorp5s2owffaBO4X27yxaHby_i" rel="stylesheet">
+<!-- <link href="./style.css" rel="stylesheet"/> -->
+<title>Supavolt</title>
+
+<div class="navigation-container">
+    <a href="https://www.ebay.co.uk/sh/str/edit">Store</a>
+</div>
+<div class="logo-container">
+    <img src="https://static.wixstatic.com/media/dc58b7_1f1b505f002c4511a77b1d6286c56d14~mv2.png/v1/fill/w_940,h_202,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/supavolt-logo.png">
+</div>
+<div class="product-container">
+    <!-- Product image, need to be split from < img src="| place image url here| concatenate with = "> -->
+    <div class="image-container">
+        <img src="https://i.ebayimg.com/images/g/~m4AAOSwa-hkhwWa/s-l1600.jpg">
+    <!-- Product image -->
+    </div>
+    <!-- Product title, needs to be splited from <h1 class="title">|Place product title here| concatenate with </h1> -->
+    <div class="product-description-container">
+        <h1 class="title">Supavolt Car Battery Type 075 12V 50Ah 400A B13 2 Years Warranty</h1>
+    <!-- Product title -->
+    <!-- Product SKU, needs to be split from <span>SKU: <b>|Place Product SKU here| concatenate wit = </b></span> -->
+        <span>SKU: <b>SV075B</b></span>
+        <ul>
+            <li>C-ca(calcium) alloyod strong plates</li>
+            <li>High starting power under all weather conditions</li>
+            <li>Maintenance-free design throughout its service life</li>
+            <li>Long life and resistance to heavy duty conditions</li>
+            <li>Design suitable for every brand and model with international norms and dimensions</li>
+        </ul>
+        <!-- Product table with item specifics, needs to be split for the first specification, <table><tbody><tr><td>Capacity</td>
+        <td>|Place item specification here|concatenate with</td></tr>, for each and every other spec it must be concatenated with the previous one. 
+         <tr><td>CCA</td>|Place specific here|, concatenate with </td><tr>. Other approach is to contacteanate every specific with <tr><td>title</td><td>Specfic value</td></tr> and 
+        then wrap them up with <table><tbody>|Place the whole specific table here|concat with</tbody></table>-->
+        <table>
+            <tbody><tr>
+                <td>Capacity</td>
+                <td>50 Ah</td>
+            </tr>
+            <tr>
+                <td>CCA</td>
+                <td>400 A</td>
+            </tr>
+            <tr>
+                <td>Guarantee</td>
+                <td>2 Years</td>
+            </tr>
+            <tr>
+                <td>Hold Down</td>
+                <td>B13</td>
+            </tr>
+            <tr>
+                <td>Height</td>
+                <td>190 mm</td>
+            </tr>
+            <tr>
+                <td>Lenght</td>
+                <td>353 mm</td>
+            </tr>
+            <tr>
+                <td>Weight</td>
+                <td>13.96 kg</td>
+            </tr>
+        </tbody></table>
+    </div>
+</div>
+<div class="main-container">
+    <div class="description-policy-container">
+        <div class="tabs">
+            <input type="radio" name="tabs" id="tab1" checked="checked">
+            <label for="tab1">DESCRIPTION</label>
+            <input type="radio" name="tabs" id="tab2">
+            <label for="tab2">PRIVACY AND POLICY</label>
+            <div id="tab-content1" class="tab-content">
+                <div class="tab-content1-container1">
+                    <h2>Battery Technology</h2>
+                    <span>Which Battery Technology is Right for Your Vehicle</span>
+                    <div class="tab-content1-container-text1">
+                        A standard flooded battery is designed to supply power to the starter and ignition
+                        system to
+                        start the engine. It also supplies
+                        extra power when the vehicles electrical load exceeds the supply from the charging
+                        system.
+                        It provides power to electrical
+                        systems such as the clocÝ and computer systems when the vehicle isn t running. And it
+                        evens
+                        out voltage spiÝes and prevents
+                        damage to other parts of the electrical system. In a standard vehicle, the Starting,
+                        Lighting, Ignition (SLI) battery is Ýept at a high
+                        state of charge (SOC), so it doesn t require deep-cycling capabilities. Most batteries
+                        today
+                        are standard flooded batteries.
+                    </div>
+                    <div class="tab-content1-list-image-container">
+                        <div class="ul-container">
+                            <lable>Standrd Flooded Battery Benefits</lable>
+                            <ul>
+                                <li>Reliable starting power</li>
+                                <li>Basic charge acceptance</li>
+                                <li>Suitable for all climates</li>
+                                <li>Lowest cost option</li>
+                            </ul>
+<lable>Standard Flooded Battery Disadvantages</lable>
+                            <ul>
+                                
+                                <li>Limited ability to power large accessory loads</li>
+                                <li>Limited cycling capability</li>
+                                <li>Shorter life compared to other technologies</li>
+                            </ul>
+                        </div>
+                        <img src="https://supavolt.co.za/wp-content/uploads/2021/04/chromium_starter_header-scaled.jpg">
+                    </div>
+                </div>
+                <div class="tab-content1-container2">
+                    <h2>Battery Technology</h2>
+                    <span>Which Battery Technology is Right for Your Vehicle</span>
+                    <div class="tab-content1-container-text2">
+                        AGM or Absorbent Glass Mat is an advanced lead-acid battery that provides superior power
+                        to
+                        support the higher electrical demands of todays vehicles
+                        and start-stop applications.
+
+                        AGM batteries are extremely resistant to vibration, are totally sealed, nonspillable and
+                        maintenance-free. AGM offers better cycling performance, minimal
+                        gassing and acid leaÝage when compared with conventional lead-acid batteries.
+
+                        The end result of all of the features of AGM technology is superior life performance.
+                    </div>
+                    <div class="tab-content1-list-image-container">
+                        <div class="ul-container">
+                            <lable>SAMG Battery Benefits</lable>
+                            <ul>
+                                <li>Up to 2x longer life than standard flooded batteries</li>
+                                <li>Designed for harsh climates and demanding conditions</li>
+                                <li>Handles high electrical loads</li>
+                                <li>Quickly recharges and extends cycle life</li>
+                                <li>Ideal for start-stop applications</li>
+                                <li>Vibration resistance</li>
+                                <li>Nonspillable and maintenance-free</li>
+                                <li>Greater mounting flexibility</li>
+                            </ul>
+                            <lable>AMG Battery Disadvantages</lable>
+                            <ul>
+                                <li>Higher initial invenstment</li>
+
+                            </ul>
+                        </div>
+                        <img src="https://static.wixstatic.com/media/dc58b7_3d1430b00d3b49eba98902126fca2615~mv2.jpg/v1/fill/w_732,h_343,al_c,lg_1,q_80,enc_auto/SLI_Battery_CallOuts_610x480_edited.jpg">
+                    </div>
+                </div>
+            </div>
+            <div id="tab-content2" class="tab-content">
+                <h3>
+                    Warranty
+                </h3>
+                <p>All the products we sell would have a minimum of 12 months warranty (unless otherwise stated), in the very unlikely event that you have a problem with any product you have purchased from us, then please contact us via eBay messages.</p><p>If Goods become faulty during the period of the Warranty for reasons unconnected with your acts, omissions or misuse of the Goods, you must notify us in writing and/or by completing a warranty claim form (including a description of the fault) and return such Goods to us. Such Goods shall be returned to the manufacturer for review and testing. Based on the manufacturers' opinion and further subject to clause 14.5 and 14.6, we will repair, (or at our sole option) replace such Goods with the same or superior Goods, without charge or not provide any of the aforementioned. The manufacturer's opinion shall be final and binding and we shall have no further liability to you. If Goods become faulty after expiry of the Warranty, and you request that we replace or repair such Goods, then we shall charge our then standard list price for such repair or replacement.</p><p>Your sole remedy in respect of a failure of the Goods to comply with the Warranty is as set out in the Warranty Conditions.</p><p>We will be afforded reasonable opportunity and facilities to investigate any claims made under the Warranty and you will if so requested in writing by us promptly return any Goods the subject of any claim and any packing materials securely packed and carriage paid to us for examination.</p><p>We will have no liability with regard to any claim in respect of which you have not complied with the claims procedures in the Warranty Conditions.</p><p>The above warranty is given by us subject to us having no liability in respect of any defect arising from wear and tear, wilful damage, negligence, tampering of the Goods, incorrect fitting of the Goods by you and/or a third party, abnormal working conditions, failure to follow our and/or the Goods' manufacturers' instructions (whether oral or in writing), misuse or alteration or repair of the Goods without our approval.</p><p>Kartal Automotive Limited will not arrange collection or pay postage costs for the product. All items for the warranty procedure must be sent back by the customer.</p>
+                <h3>Postage</h3>
+                <p>For Home Delivery, we use Royal Mail Tracked and DPD for the majority of our domestic parcel deliveries.</p><p>Most orders are with you within 1-3 working days.</p><p>We aim to dispatch all orders within 1 working day of receiving cleared funds (Monday to Friday). We occasionally list products which are special order items and therefore dispatch time will be slightly longer, if this is the case then we will contact you to advise of expected delivery date.</p><p>An express delivery option is available for £3.99 on selected items. If your order is placed before 2pm (Monday to Friday) and is in stock, items will be sent the same day and delivered within 2 working days (for some out of areas postcodes, deliveries might take slightly longer).</p><p>PLEASE NOTE: All deliveries are made by courier and will require a signature. The courier will try and deliver the item twice before returning the item to us. Please ensure someone is present to sign for the item. Should the item be returned to us we will have to charge for re-delivery.</p><p>We run an automated ordering system so please ensure your correct shipping address is selected on the PayPal / eBay checkout as we can only send to the address that comes through. This is an eBay policy.</p><p>For orders cancelled after despatch, you must follow our returns procedure. You are responsible for both the outgoing and return postage costs.</p><p>Postage Guide for Out Of Zones GB Exclusion List</p><p>Channel Islands All GY &amp; JE Postcodes - £7.99</p><p>Isle Of Man All IM Postcodes - £7.99</p><p>Scilly Islands Postcodes TR21-TR25 - £7.99</p><p>Scottish Highlands All HS, IV, KW, KA, PA, PH &amp; ZE Postcodes - £7.99</p><p>Aberdeenshire All AB Postcodes - £7.99</p><p>Northern Ireland All BT Postcodes - £7.99</p><p>Orders Delayed/Missing in Transit</p><p>We promise we'll do everything we can to ensure you receive your order within the time-frame specified. Occasionally events beyond our control may result in your parcel being delayed whilst it is with the courier and we cannot be held responsible for such delays.</p><p>All parcels are fully insured and if your parcel is lost or delayed, let us know and we'll act quickly to locate it, bearing in mind the points below. All claims for missing items must be made within 28 days of the date of your order.</p><p>Express Services</p><p>So as valued customers we are now offering a paid £3.99 next working day delivery (Excludes weekends). To qualify for the next working day the cut off for an order is 2pm the day before. However we are still operating the free 1-3 working days delivery that our customers love.</p><p>We are very pleased to announce that the vast majority of orders will be delivered by either Royal Mail or DPD. Both of these couriers offer an excellent service and we are very pleased to have them on board. The courier chosen to deliver your parcel will depend on the size and weight of the goods you have purchased along with your location. As soon as your order has been dispatched we will email you with the details of the courier along with your tracking number.</p><p>What do I do if I have not received my delivery?</p><p>Please call us or send a message via eBay messages and we'll get back to you quickly with a response and tracking information.</p><p>How much does delivery cost and how long will it take?</p><p>All of our listings have free delivery to UK mainland addresses (please see exclusion list for out of area zones) and use our standard 1-3 day delivery service. Please note that we do not dispatch orders on weekends.</p><p>What happens if I'm not at home to accept delivery?</p><p>If you are not available to sign for your delivery, the courier will leave a card to advise that delivery has been attempted. To re-arrange delivery or arrange to collect the parcel, please follow the instructions on the card.</p>
+                <h3>Returns</h3>
+                <p>Kartal Automotive Limited offer a 30 day returns policy. Please return your item(s) in original packaging and ensure that all packages are securely wrapped. You must include a copy of your delivery note in with your item(s), as this is the proof of purchase. Failure to do so will delay your refund.</p><p>Clearly mark your eBay user name on the outside of the package, and send to the following address:</p><p>Returns Department</p><p>Kartal Automotive Limited</p><p>Online Returns - REF (eBay user name)</p><p>9 Bridgefields</p><p>Welwyn Garden City</p><p>Hertfordshire</p><p>AL7 1RX</p><p>The customer is responsible for all postage costs for products returned under our Returns Procedure unless this has been specifically agreed and confirmed in advance with the Customer Services Department.</p><p>Kartal Automotive Limited will not accept responsibility for loss or damage of goods during transit, please ensure that the insurance cover option is taken where possible.</p><p>Upon receipt, all products will be inspected and at our discretion, credit may be refused.</p><p>Any damages must be reported to us within 24 hours for us to raise any claims with our courier. Any claims after 24 hours will be dismissed for a claim.</p><p>We are fully compliant with the Distance Selling regulations.</p><p>Certain products are treated specially for legal and/or health and safety reasons, It is important for your own and our couriers safety that they are followed. As well as the above procedures the below must also be adhered to.</p><p>Car Batteries</p><p>Batteries must NOT be removed from the sealed bag. Batteries must be returned in the original, un-damaged box. Failure to do so will result in the courier NOT collecting the product.</p><p>If the box is lost, damaged, defaced or unusable a suitable replacement box which meets the legal guidelines for the carriage of wet, prefilled batteries must be purchased. Kartal Automotive can supply this at a cost of £5.99.</p><p>Batteries CAN be returned to our distribution centre free of charge.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="product-slider-container">
+    <div id="slider" class="slider-container">
+        <figure>
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+            <img src="https://static.wixstatic.com/media/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg/v1/fill/w_278,h_278,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/dc58b7_2a93c6c8277f4c36a1cffba147491a95~mv2.jpg">
+        </figure>
+    </div>
+</div>
+<div class="company-info-container">
+    <div class="about-us-container">
+        <div class="about-us-text">
+            <h2>ABOUT US</h2>
+            <p>
+                Supavolt Energy Solutions (Pty) Ltd. was founded and brought to the market in 2010 by Resul Eraydin
+                after
+                noticing the demand for premium quality batteries with a long-life and an economic price in the
+                market.
+                Supervolt Batteries has grown with great strength from being a start-up company to being a leading
+                brand
+                in
+                the automotive battery space in Southern Africa with double-digit growth each year.
+            </p>
+            <p>
+                We have now decided to expand and leave our footprint in Europe and Asia delivering good quality
+                batteries to
+                these markets. We are a knowledge-based company, importing and distributing all lead acid batteries
+                and
+                other
+                battery technologies that is in demand, which fit the standards and requirements of the OE
+                replacement
+                standards in Europe.
+            </p>
+        </div>
+        <img src="https://static.wixstatic.com/media/c30d24c215ec4da58ac2b2d0e4332339.jpg">
+    </div>
+    <div class="our-mission-container">
+        <div class="our-mission-text">
+            <h2>OUR MISSION</h2>
+            <p>
+                Supavolt Energy Solutions (Pty) Ltd. was founded and brought to the market in 2010 by Resul Eraydin
+                after
+                noticing the demand for premium quality batteries with a long-life and an economic price in the
+                market.
+                Supervolt Batteries has grown with great strength from being a start-up company to being a leading
+                brand
+                in
+                the automotive battery space in Southern Africa with double-digit growth each year.
+            </p>
+            <p>
+                We have now decided to expand and leave our footprint in Europe and Asia delivering good quality
+                batteries to
+                these markets. We are a knowledge-based company, importing and distributing all lead acid batteries
+                and
+                other
+                battery technologies that is in demand, which fit the standards and requirements of the OE
+                replacement
+                standards in Europe.
+            </p>
+        </div>
+        <img src="	https://static.wixstatic.com/media/11062b_393bc50b892b4db2a4c86aa3cde1b2c9~mv2.jpg">
+    </div>
+</div>
+<footer>
+    <span>©2023 By Supavolt</span>
+</footer>
+
+
